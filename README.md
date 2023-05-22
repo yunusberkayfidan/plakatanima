@@ -1,0 +1,2 @@
+# plakatanima
+PYTHON İLE PLAKA TANIMA SİSTEMİ
